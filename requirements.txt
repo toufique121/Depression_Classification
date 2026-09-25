@@ -1,1 +1,14 @@
-
+streamlit
+torch
+torchvision
+transformers
+scikit-learn
+pandas
+numpy
+matplotlib
+shap
+captum
+facenet-pytorch
+joblib
+gspread
+google-auth
